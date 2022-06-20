@@ -1,0 +1,6 @@
+name = "Eugene"
+uuid = "68329af8-4b11-48ad-b396-d55763028886"
+repo = "git@github.com:eugene-shvarts/EugeneRegistry.git"
+description = "Julia registry for Eugene things"
+
+[packages]
