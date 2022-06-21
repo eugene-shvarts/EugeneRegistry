@@ -4,4 +4,5 @@ repo = "git@github.com:eugene-shvarts/EugeneRegistry.git"
 description = "Julia registry for Eugene things"
 
 [packages]
+4e59e06e-74f5-48b2-bbf8-c128a600ae34 = { name = "EconomicModel", path = "E/EconomicModel" }
 a5579899-0d95-4cd7-b984-e47de3a774e9 = { name = "Cadcad", path = "C/Cadcad" }
